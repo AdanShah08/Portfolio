@@ -545,7 +545,6 @@ function Contact() {
           </p>
           <ul className="contact-list">
             <li><Icon.mail size={16} /> shahadan496@gamil.com</li>
-            <li><Icon.phone size={16} /> +92 331 0242415</li>
             <li><Icon.pin size={16} /> Kohat, Pakistan</li>
           </ul>
           <div className="social-row">
